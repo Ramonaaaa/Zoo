@@ -6,6 +6,8 @@ namespace Zoo_OOP
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Branch testing on GIT.");
             Animal animal = new Lion("Lord", "patatoes");
             Animal animal2 = new Animal("Sisi", "lucerne");
             Animal animal3 = new Zebra("Lulu", "grass");
